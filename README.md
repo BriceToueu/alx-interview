@@ -1,3 +1,7 @@
-# `nQueens`
-## The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard.
-![](https://camo.githubusercontent.com/3b060d7a1bf5dc1874c642546f5281dd85773fd6ad6e3a4f445b48afa41861e8/687474703a2f2f692e696d6775722e636f6d2f4e4c41464949742e676966)
+![img](https://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
+# `Technical interview`
+- Comprehensive repository designed to help individuals prepare for technical interviews.
+- It provides a wide range of resources, including coding challenges, algorithmic problems, and interview tips.
+- With carefully curated content and organized sections, this repository aims to enhance your interview skills and boost your confidence. 
+#
+![](https://contentstatic.techgig.com/photo/85900107.cms)
